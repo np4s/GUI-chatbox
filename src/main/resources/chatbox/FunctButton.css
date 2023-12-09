@@ -1,0 +1,29 @@
+.button {
+    -fx-background-radius: 18;
+    -fx-background-color: #E8EAF7;
+    -fx-pref-height: 36;
+    -fx-pref-width: 36;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+    -fx-cursor: hand;
+}
+
+#sendBtn {
+    -fx-background-image: url("send.png");
+}
+
+#imageBtn {
+    -fx-background-image: url("image.png");
+}
+
+#micBtn {
+    -fx-background-image: url("mic.png");
+}
+
+#callBtn {
+    -fx-background-image: url("call.png");
+}
+
+#videoBtn {
+    -fx-background-image: url("videocam.png");
+}

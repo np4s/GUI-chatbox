@@ -1,0 +1,11 @@
+.sender {
+    -fx-background-color: #635CDD;
+    -fx-background-radius: 10;
+    -fx-padding: 10;
+}
+
+.receiver {
+    -fx-background-color: #D67598;
+    -fx-background-radius: 10;
+    -fx-padding: 10;
+}
