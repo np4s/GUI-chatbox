@@ -3,6 +3,6 @@
 # DESCRIPTION
 
 - This is a chat screen build with javafx for the OOP Advanced - GUI class
-- Clone this repo then enter "\demo" and run "mvn clean javafx:run" to run the project
+- Clone this repo then run "mvn clean javafx:run" to run the project
 
 ![Alt text](demo.png)
